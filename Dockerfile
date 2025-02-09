@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/csi-resizer:v1.13.1
+FROM k8s.gcr.io/sig-storage/csi-resizer:v1.0.1
